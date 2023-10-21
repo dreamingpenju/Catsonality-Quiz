@@ -1,0 +1,57 @@
+
+body {
+    background-color:floralwhite
+  }
+
+  h1 {
+    font-family:myTwoFont;
+    font-size:60px;
+  }
+  .ins{
+    font-size: 25px;
+    margin-right:25%;
+  }
+
+  h2 {
+    color: #0d9c90;
+    font-size: 20px;
+  }
+  
+  .choice{
+    margin-left:150px;
+    margin-right:150px;
+  }
+
+  img {
+    padding:10px;
+    width:400px;
+    height:250px;
+    object-fit: cover;
+
+  }
+
+  @font-face {
+    font-family: cat;
+    src: url(sleepycat.ttf);
+    }
+    
+    @font-face {
+    font-family: myTwoFont;
+    src: url(KGMidnightMemories.ttf);
+    }
+      
+    h2 {
+      font-family:myTwoFont;
+    
+    }
+    
+    @font-face {
+    font-family: myThreeFont;
+    src: url(Letters\ for\ Learners.ttf);
+    }
+      
+    p {
+      font-family:myThreeFont;
+    
+    }
+  
